@@ -1,0 +1,6 @@
+- Game Design Doc from Nuclino
+- Public link to Nuclino Documentation (make sure sharing is public)
+- Youtube Link to Project slideshow
+	+ in youtube description is the link to download the game itself
+- Analysis of Game Development Process from start to finish
+	+ What the goals were, what was done well, challenges faced, what could be done better next time, overall reflections
